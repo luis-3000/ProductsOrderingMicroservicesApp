@@ -15,14 +15,8 @@ import java.util.List;
 @RequiredArgsConstructor
 public class ProductController {
 
-    // Inject the ProductService into the Product Controller
+    /*  Inject the ProductService into the Product Controller */
     private final ProductService productService;
-
-    //The @RequiredArgsConstructor replaces this constructor
-//    public ProductController(ProductService productService) {
-//        this.productService = productService;
-//    }
-
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public ProductResponse createProduct(@RequestBody ProductRequest productRequest) {

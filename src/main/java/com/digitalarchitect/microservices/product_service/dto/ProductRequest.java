@@ -6,16 +6,5 @@ import java.math.BigDecimal;
 
 public record ProductRequest(String id, String name, String description, BigDecimal price) {
 
-    public String getName() {
-        return name;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public BigDecimal getPrice() {
-        return price;
-    }
 }
 

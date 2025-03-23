@@ -3,6 +3,8 @@ com/digitalarchitect/microservices/product_service/repository/ProductRepository.
 com/digitalarchitect/microservices/product_service/dto/ProductResponse.class
 com/digitalarchitect/microservices/product_service/model/Product$ProductBuilder.class
 com/digitalarchitect/microservices/product_service/model/Product.class
+com/digitalarchitect/microservices/product_service/mongodb_config/MongoConfig.class
 com/digitalarchitect/microservices/product_service/ProductServiceApplication.class
+com/digitalarchitect/microservices/product_service/mongodb_config/MongoUserCreationRunner.class
 com/digitalarchitect/microservices/product_service/dto/ProductRequest.class
 com/digitalarchitect/microservices/product_service/controller/ProductController.class

@@ -3,5 +3,7 @@
 /Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/dto/ProductRequest.java
 /Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/dto/ProductResponse.java
 /Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/model/Product.java
+/Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/mongodb_config/MongoConfig.java
+/Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/mongodb_config/MongoUserCreationRunner.java
 /Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/repository/ProductRepository.java
 /Users/joseluiscastillo/Documents/ProductsOrderingMicroservicesApp/product-service/src/main/java/com/digitalarchitect/microservices/product_service/service/ProductService.java
